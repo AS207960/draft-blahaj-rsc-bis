@@ -21,3 +21,4 @@ draft-blahaj-rsc-bis.xml
 package-lock.json
 report.xml
 !requirements.txt
+.idea/
